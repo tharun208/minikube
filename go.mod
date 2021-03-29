@@ -27,7 +27,7 @@ require (
 	github.com/elazarl/goproxy v0.0.0-20190421051319-9d40249d3c2f
 	github.com/elazarl/goproxy/ext v0.0.0-20190421051319-9d40249d3c2f // indirect
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
+	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/google/go-cmp v0.5.5
 	github.com/google/go-containerregistry v0.4.1
 	github.com/google/go-github v17.0.0+incompatible
@@ -53,7 +53,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/libvirt/libvirt-go v3.9.0+incompatible
 	github.com/machine-drivers/docker-machine-driver-vmware v0.1.1
-	github.com/mattbaird/jsonpatch v0.0.0-20200820163806-098863c1fc24 // indirect
+	github.com/mattbaird/jsonpatch v0.0.0-20200820163806-098863c1fc24
 	github.com/mattn/go-isatty v0.0.12
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/moby/hyperkit v0.0.0-20210108224842-2f061e447e14
@@ -74,7 +74,7 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/xeipuuv/gojsonschema v0.0.0-20180618132009-1d523034197f
 	github.com/zchee/go-vmnet v0.0.0-20161021174912-97ebf9174097
-	go.opencensus.io v0.22.6
+	go.opencensus.io v0.23.0
 	go.opentelemetry.io/otel v0.17.0
 	go.opentelemetry.io/otel/sdk v0.16.0
 	go.opentelemetry.io/otel/trace v0.17.0
@@ -82,11 +82,11 @@ require (
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6
 	golang.org/x/mod v0.4.2
-	golang.org/x/oauth2 v0.0.0-20210113205817-d3ed898aa8a3
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210217105451-b926d437f341
+	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4
 	golang.org/x/text v0.3.5
-	google.golang.org/api v0.40.0
+	google.golang.org/api v0.43.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/v3 v3.0.3 // indirect
